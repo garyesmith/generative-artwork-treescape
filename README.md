@@ -34,7 +34,7 @@ Because of the enormous number of entities that result from this exponential rec
 - Because repeatedly changing the active `fill()` color carries a performance cost, leaves are not drawn at the same time as the branches. Instead, the x, y and color values of desired leaves are stashed in global arrays, and then leaves are rendered in batches of the same colour after the full tree has been rendered.
 
 # Usage Permissions
-Please use this code for educational purposes, to satisfy your curiousity or to adapt parts or techniques for your own projects.
+Please use this code for educational purposes, to satisfy your curiosity or to adapt parts or techniques for your own projects.
 
 Do not redistribute this code unmodified in its entirety.
 
